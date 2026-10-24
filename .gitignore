@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / Output
+dist/
+build/
+**/dist/
+**/build/
+**/installer_output/
+installer_output/
+*.pkg
+*.exe
+out/
+.next/
+.nuxt/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+
+# IDEs & OS
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+*.log
